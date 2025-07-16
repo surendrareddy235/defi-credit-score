@@ -19,7 +19,6 @@ To process raw DeFi transaction data and generate a score per wallet address ind
 
 - A JSON file mapping each wallet to a credit score between 0 and 1000
 - A bar chart showing the distribution of scores
-- (Optional) Model-based predictions using a trained XGBoost regressor
 
 ## Methodology
 
