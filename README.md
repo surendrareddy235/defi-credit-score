@@ -55,7 +55,7 @@ To process raw DeFi transaction data and generate a score per wallet address ind
 
 1. Install required packages:
    ```bash
-   pip install pandas xgboost scikit-learn matplotlib seaborn
+   pip install -r requirements.txt
    Place the transaction data in the root directory
 
 Run the notebook step by step to:
